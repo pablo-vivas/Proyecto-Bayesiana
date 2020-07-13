@@ -1,0 +1,516 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{Antulio Hoyos Rivera}%
+, {Antonio P{\'{e}}rez Rodr{\'{i}}guez}%
+\BCBL {}\ \BBA {} {Edelsys Hern{\'{a}}ndez Mel{\'{e}}ndrez}%
+}{%
+{Antulio Hoyos Rivera}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+factores}
+\APACinsertmetastar {%
+factores}%
+\begin{APACrefauthors}%
+{Antulio Hoyos Rivera}, C.%
+, {Antonio P{\'{e}}rez Rodr{\'{i}}guez}, C.%
+\BCBL {}\ \BBA {} {Edelsys Hern{\'{a}}ndez Mel{\'{e}}ndrez}, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Factores de riesgos asociados a la infecci{\'{o}}n por
+  dengue en San Mateo, Anzo{\'{a}}tegui, Venezuela}} {{Factores de riesgos
+  asociados a la infecci{\'{o}}n por dengue en San Mateo, Anzo{\'{a}}tegui,
+  Venezuela}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Revista Cubana de Medicina General
+  Integral}{27}{3}{388--395}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Aragon%
+}{%
+Aragon%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+epitools}
+\APACinsertmetastar {%
+epitools}%
+\begin{APACrefauthors}%
+Aragon, T\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {epitools: Epidemiology Tools} {epitools: Epidemiology
+  tools}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://CRAN.R-project.org/package=epitools}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 0.5-10}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R.~Bivand%
+, Keitt%
+\BCBL {}\ \BBA {} Rowlingson%
+}{%
+R.~Bivand%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+rdal}
+\APACinsertmetastar {%
+rdal}%
+\begin{APACrefauthors}%
+Bivand, R.%
+, Keitt, T.%
+\BCBL {}\ \BBA {} Rowlingson, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {rgdal: Bindings for the 'Geospatial' Data Abstraction
+  Library} {rgdal: Bindings for the 'geospatial' data abstraction
+  library}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://CRAN.R-project.org/package=rgdal}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 1.4-4}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R\BPBI S.~Bivand%
+, Pebesma%
+\BCBL {}\ \BBA {} Gomez-Rubio%
+}{%
+R\BPBI S.~Bivand%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+sp}
+\APACinsertmetastar {%
+sp}%
+\begin{APACrefauthors}%
+Bivand, R\BPBI S.%
+, Pebesma, E.%
+\BCBL {}\ \BBA {} Gomez-Rubio, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Applied spatial data analysis with {R}, Second edition}
+  {Applied spatial data analysis with {R}, second edition}.
+\newblock
+\APACaddressPublisher{}{Springer, NY}.
+\newblock
+\begin{APACrefURL} \url{http://www.asdar-book.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Caja Costarricense del Seguro Social}%
+}{%
+{Caja Costarricense del Seguro Social}%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+CajaCostarricensedelSeguroSocial2013}
+\APACinsertmetastar {%
+CajaCostarricensedelSeguroSocial2013}%
+\begin{APACrefauthors}%
+{Caja Costarricense del Seguro Social}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Gu{\'{i}}a para la Organizaci{\'{o}}n de la
+  Atenci{\'{o}}n y Manejo de los Pacientes con Dengue y Dengue Grave}}
+  {{Gu{\'{i}}a para la Organizaci{\'{o}}n de la Atenci{\'{o}}n y Manejo de los
+  Pacientes con Dengue y Dengue Grave}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{1--61}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Fabio Sánchez Peña}%
+}{%
+{Fabio Sánchez Peña}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+ucrea}
+\APACinsertmetastar {%
+ucrea}%
+\begin{APACrefauthors}%
+{Fabio Sánchez Peña}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {{Mathematical Models for the Development of Prevention/Control
+  Strategies of Aedes Aegypti in Costa Rica},
+  url={http://www.ucrea.ucr.ac.cr/proyectos-vigentes/aedes-aegypti/},
+  journal={UCREA}.} {{Mathematical Models for the Development of
+  Prevention/Control Strategies of Aedes Aegypti in Costa Rica},
+  url={http://www.ucrea.ucr.ac.cr/proyectos-vigentes/aedes-aegypti/},
+  journal={UCREA}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J%
+}{%
+J%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+plotrix}
+\APACinsertmetastar {%
+plotrix}%
+\begin{APACrefauthors}%
+J, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Plotrix: a package in the red light district of R}
+  {Plotrix: a package in the red light district of r}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{R-News}{6}{4}{8-12}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lopez-Quílez%
+}{%
+Lopez-Quílez%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+dcluster}
+\APACinsertmetastar {%
+dcluster}%
+\begin{APACrefauthors}%
+Lopez-Quílez, V\BPBI G\BHBI R\BPBI J\BPBI F\BHBI F\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Detecting clusters of disease with R} {Detecting
+  clusters of disease with r}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geographical Systems}{7}{2}{189-206}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Neuwirth%
+}{%
+Neuwirth%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Rcolor}
+\APACinsertmetastar {%
+Rcolor}%
+\begin{APACrefauthors}%
+Neuwirth, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {RColorBrewer: ColorBrewer Palettes} {Rcolorbrewer:
+  Colorbrewer palettes}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://CRAN.R-project.org/package=RColorBrewer}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 1.1-2}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pebesma%
+}{%
+Pebesma%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+sf}
+\APACinsertmetastar {%
+sf}%
+\begin{APACrefauthors}%
+Pebesma, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Simple Features for R: Standardized Support for Spatial
+  Vector Data}} {{Simple Features for R: Standardized Support for Spatial
+  Vector Data}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{{The R Journal}}{10}{1}{439--446}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.32614/RJ-2018-009} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.32614/RJ-2018-009} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{R Core Team}%
+}{%
+{R Core Team}%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+R}
+\APACinsertmetastar {%
+R}%
+\begin{APACrefauthors}%
+{R Core Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {R: A Language and Environment for Statistical Computing}
+  {R: A language and environment for statistical computing}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACaddressPublisher{Vienna, Austria}{}.
+\newblock
+\begin{APACrefURL} \url{https://www.R-project.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Scott%
+}{%
+Scott%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+OMS}
+\APACinsertmetastar {%
+OMS}%
+\begin{APACrefauthors}%
+Scott, T\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Dengue}} {{Dengue}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Encyclopedia of Insects}{}{}{257--259}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/B978-0-12-374144-8.00078-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tennekes%
+}{%
+Tennekes%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+tmap}
+\APACinsertmetastar {%
+tmap}%
+\begin{APACrefauthors}%
+Tennekes, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{tmap}: Thematic Maps in {R}} {{tmap}: Thematic maps in
+  {R}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Statistical Software}{84}{6}{1--39}.
+\newblock
+\begin{APACrefDOI} \doi{10.18637/jss.v084.i06} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tennekes%
+}{%
+Tennekes%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+tmaptools}
+\APACinsertmetastar {%
+tmaptools}%
+\begin{APACrefauthors}%
+Tennekes, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {tmaptools: Thematic Map Tools} {tmaptools: Thematic map
+  tools}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://CRAN.R-project.org/package=tmaptools}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 2.0-2}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Venables%
+\ \BBA {} Ripley%
+}{%
+Venables%
+\ \BBA {} Ripley%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+MASS}
+\APACinsertmetastar {%
+MASS}%
+\begin{APACrefauthors}%
+Venables, W\BPBI N.%
+\BCBT {}\ \BBA {} Ripley, B\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2002}.
+\newblock
+\APACrefbtitle {Modern Applied Statistics with S} {Modern applied statistics
+  with s}\ (\PrintOrdinal{Fourth}\ \BEd).
+\newblock
+\APACaddressPublisher{New York}{Springer}.
+\newblock
+\begin{APACrefURL} \url{http://www.stats.ox.ac.uk/pub/MASS4} \end{APACrefURL}
+\newblock
+\APACrefnote{ISBN 0-387-95457-0}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Waggoner%
+\ \protect \BOthers {.}}{%
+Waggoner%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Waggoner2016}
+\APACinsertmetastar {%
+Waggoner2016}%
+\begin{APACrefauthors}%
+Waggoner, J\BPBI J.%
+, Gresh, L.%
+, Vargas, M\BPBI J.%
+, Ballesteros, G.%
+, Tellez, Y.%
+, Soda, K\BPBI J.%
+\BDBL {}Pinsky, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Viremia and Clinical Presentation in Nicaraguan Patients
+  Infected With Zika Virus, Chikungunya Virus, and Dengue Virus} {Viremia and
+  clinical presentation in nicaraguan patients infected with zika virus,
+  chikungunya virus, and dengue virus}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Clinical Infectious Diseases}{63}{12}{1584--1590}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1093/cid/ciw589} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1093/cid/ciw589} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wickham%
+}{%
+Wickham%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+tidy}
+\APACinsertmetastar {%
+tidy}%
+\begin{APACrefauthors}%
+Wickham, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {tidyverse: Easily Install and Load the 'Tidyverse'}
+  {tidyverse: Easily install and load the 'tidyverse'}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://CRAN.R-project.org/package=tidyverse}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 1.2.1}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wickham%
+\ \BBA {} Bryan%
+}{%
+Wickham%
+\ \BBA {} Bryan%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+readxl}
+\APACinsertmetastar {%
+readxl}%
+\begin{APACrefauthors}%
+Wickham, H.%
+\BCBT {}\ \BBA {} Bryan, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {readxl: Read Excel Files} {readxl: Read excel
+  files}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://CRAN.R-project.org/package=readxl}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 1.3.1}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wood%
+}{%
+Wood%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+mgcv}
+\APACinsertmetastar {%
+mgcv}%
+\begin{APACrefauthors}%
+Wood, S\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Thin-plate regression splines} {Thin-plate regression
+  splines}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Royal Statistical Society
+  (B)}{65}{1}{95-114}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
